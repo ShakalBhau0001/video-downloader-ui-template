@@ -1,1 +1,31 @@
+body {
+    background: linear-gradient(to right, #2101b9, #00e3e3);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
+.card {
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.result-box {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.result-box.download-video {
+    color: #28a745;
+}
+
+.result-box.error {
+    color: #dc3545;
+}
+
+.result-box a {
+    color: #007bff;
+    text-decoration: none;
+}
