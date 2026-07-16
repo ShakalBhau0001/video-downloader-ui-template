@@ -118,6 +118,12 @@ This project is built to:
 
 ---
 
+## 📸 Preview
+
+![Rich CLI Preview](assets/Video-UI.png)
+
+---
+
 ## 🪪 Author
 
 > **Creator: Shakal Bhau**
