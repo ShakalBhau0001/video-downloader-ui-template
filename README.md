@@ -79,14 +79,10 @@ cd video-downloader-ui-template
 Simply open:
 
 ```bash
-`index.html`
+index.html
 ```
 
 in any modern browser.
-
----
-
-## 📸 Preview
 
 ---
 
